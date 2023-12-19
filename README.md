@@ -1,5 +1,8 @@
 <p align="center">
-	<a href="https://hutool.cn/"><img src="docs/wlf.png" width="150" alt=""></a>
+	<strong>Wlftool</strong>
+</p>
+<p align="center">
+	<a href="https://hutool.cn/"><img src="docs/wlf.png" width="30" alt=""></a>
 </p>
 <p align="center">
 	<strong>A set of tools that make Java convenient.</strong>
