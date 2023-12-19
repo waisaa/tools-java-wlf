@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<packaging>jar</packaging>
+
+	<parent>
+		<groupId>cn.wlftool</groupId>
+		<artifactId>wlftool-parent</artifactId>
+		<version>1.0.0</version>
+	</parent>
+
+	<artifactId>wlftool-excel</artifactId>
+	<name>${project.artifactId}</name>
+	<description>wlftool 动态代理（AOP）</description>
+
+	<properties>
+		<!-- versions -->
+		<poi.version>5.2.2</poi.version>
+	</properties>
+
+	<dependencies>
+		<dependency>
+			<groupId>org.apache.poi</groupId>
+			<artifactId>poi</artifactId>
+			<version>${poi.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.poi</groupId>
+			<artifactId>poi-ooxml</artifactId>
+			<version>${poi.version}</version>
+		</dependency>
+
+	</dependencies>
+</project>
