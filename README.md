@@ -2,7 +2,7 @@
 	<strong>Wlftool</strong>
 </p>
 <p align="center">
-	<a href="https://hutool.cn/"><img src="docs/wlf.png" width="30" alt=""></a>
+	<a href="https://github.com/waisaa/tools-java-wlf"><img src="docs/wlf.png" width="30" alt=""></a>
 </p>
 <p align="center">
 	<strong>A set of tools that make Java convenient.</strong>
@@ -12,17 +12,14 @@
 </p>
 
 <p align="center">
-	<a target="_blank" href="https://search.maven.org/artifact/cn.hutool/hutool-all">
-		<img src="https://img.shields.io/maven-central/v/cn.hutool/hutool-all.svg?label=Maven%20Central" />
+	<a target="_blank" href="https://central.sonatype.com/artifact/io.github.waisaa/wlftool-all">
+		<img src="https://img.shields.io/maven-central/v/io.github.waisaa/wlftool-all.svg?label=Maven%20Central"  alt=""/>
 	</a>
-	<a target="_blank" href="https://license.coscl.org.cn/MulanPSL2/">
-		<img src="https://img.shields.io/:license-MIT-blue.svg" />
+	<a target="_blank" href="https://www.opensource.org/licenses/mit-license.php">
+		<img src="https://img.shields.io/:license-MIT-blue.svg"  alt=""/>
 	</a>
 	<a target="_blank" href="https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html">
-		<img src="https://img.shields.io/badge/JDK-8+-green.svg" />
-	</a>
-	<a target="_blank" href="https://travis-ci.com/dromara/hutool">
-		<img src="https://travis-ci.com/dromara/hutool.svg?branch=v4-master" />
+		<img src="https://img.shields.io/badge/JDK-8+-green.svg"  alt=""/>
 	</a>
 </p>
 
